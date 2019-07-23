@@ -1,0 +1,4 @@
+addd a'
+add b 
+sun c
+c=a+b;
